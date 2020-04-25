@@ -1,9 +1,9 @@
-# Swing-calendar-java
+# Swing-calendar
 A desktop app made using Java Swing to create calendar events
 
 ## To run
 ```
-cd build/
+cd build
 java -jar swing-calendar-java-X.Y-SNAPSHOT.jar
 ```
 where X.Y is the version number
@@ -17,5 +17,3 @@ To build the source, run
 ## Screenshot
 ![screenshot](assets/screenshot.png)
 
-## Credits
-[SwingLink](https://github.com/dimo414/jgrep/blob/master/src/grep/SwingLink.java) by [dimo414](https://github.com/dimo414)
