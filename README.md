@@ -1,4 +1,4 @@
-# Swing-calendar
+# swing-calendar
 A desktop app made using Java Swing to create calendar events
 
 ## To run
